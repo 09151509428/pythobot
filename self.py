@@ -1,3 +1,5 @@
+# GHOGHNOS BLACK 
+# SELFE
 import re
 import asyncio
 from telethon import TelegramClient, events
